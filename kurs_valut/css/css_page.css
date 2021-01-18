@@ -1,0 +1,9 @@
+   html {
+    background: #808080;
+    padding-top: 3%;
+}
+    body {
+        
+/*height: 800px; /* Используется для включения прокрутки */
+background: linear-gradient( #FFDEAD 0%,  #F4A460 85%);
+    }
